@@ -1,0 +1,21 @@
+Walk onto the elevator
+Review the numbers on the elevator Dashboard
+Determine which numbers are lit and which are dim
+After review, determine if the floor number you are headed to is lit or dim
+	If your floor number is lit, take no action. 
+	Otherwise:
+		Press the dim button that corresponds with the floor you are headed to
+	Once you have reached the floor number of your destination, leave the elevator. 
+
+
+	Common Task in Life: Sorting the Apartment Mail
+	Walk to mailbox
+	Insert key and twist to open
+	Pull out mail from mailbox 
+	Walk upstairs to apartment
+	Review mail for either Veronica"s or Stephen's name
+		If the mail contains Stephen's name
+		Place the mail by his door
+		If it contains someone else's name other than Veronica or Stephen discard mail 
+		Otherwise, take mail with you to room. 
+
