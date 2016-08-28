@@ -1,18 +1,2 @@
-.column-left{ float: left; width: 33%; }
-.column-right{ float: right; width: 33%; }
 
-footer {
-  clear:both;
-}
-
-header{
-border: 3px none;
-  background-color: blue;
-  color: black;
-  font-weight: bold;
-  font-variant: small-caps;
-  font-size: 2em;
-  font-family: Helvetica;
-
-}
 
