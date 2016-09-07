@@ -1,4 +1,12 @@
-pets {|name1, name2, name3| puts "My various pets include #{name1}, #{name2}, and #{name3}"}
+exit_program = "done"
 
-puts "hit enter to continue"
-continue = gets.chomp
+user_input = ""
+
+while user_input != exit_program
+ puts "Enter a name"
+ user_input = gets.chomp
+ 
+  
+end
+
+user_input.reverse
