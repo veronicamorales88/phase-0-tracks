@@ -1,12 +1,22 @@
-exit_program = "done"
+#Ask user to enter a name
+#retrieve the name entered and scramble their submission in order to create fake name
+#submit fake name to user
+#keep requesting names in a loop and submitting fake names until user exits
+#store their entries in a data structure
+#print their entries at then end of the program
 
-user_input = ""
 
-while user_input != exit_program
- puts "Enter a name"
- user_input = gets.chomp
- 
-  
+quit = "done"
+
+alias_method= ""
+
+while alias_method != quit
+  puts "write another name "
+  alias_method = gets.chomp
 end
 
-user_input.reverse
+alias_method = {
+	:quit => "#{quit}",
+	:alias_method => "#{alias_method}"
+
+}
